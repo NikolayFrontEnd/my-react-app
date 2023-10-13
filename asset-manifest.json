@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.3a522549.css",
+    "main.js": "/my-react-app/static/js/main.6b682871.js",
+    "static/js/787.ec6b3678.chunk.js": "/my-react-app/static/js/787.ec6b3678.chunk.js",
+    "static/media/max.png": "/my-react-app/static/media/max.fbafb8d1ccca53e6bad4.png",
+    "static/media/Alex.jpg": "/my-react-app/static/media/Alex.a57e1301c19a82658a86.jpg",
+    "static/media/m.jpg": "/my-react-app/static/media/m.cf00564eb5e5b95d12c1.jpg",
+    "static/media/mentcer.jpeg": "/my-react-app/static/media/mentcer.41ef85f0c04892856628.jpeg",
+    "static/media/king.jpeg": "/my-react-app/static/media/king.e4da9f4b6412cc6dfeb9.jpeg",
+    "static/media/A.png": "/my-react-app/static/media/A.7c0b7e19a67fc084b842.png",
+    "static/media/URA2.jpg": "/my-react-app/static/media/URA2.e448e4fb5dbc92912fa9.jpg",
+    "static/media/moger.jpg": "/my-react-app/static/media/moger.b0b6c8b2521aa150b95e.jpg",
+    "static/media/JefCavalier.jpg": "/my-react-app/static/media/JefCavalier.c85fcd5a36b37aa69498.jpg",
+    "static/media/1.jpg": "/my-react-app/static/media/1.548ef6664deed9280854.jpg",
+    "static/media/skott.jpg": "/my-react-app/static/media/skott.168697491d3caa436540.jpg",
+    "index.html": "/my-react-app/index.html",
+    "main.3a522549.css.map": "/my-react-app/static/css/main.3a522549.css.map",
+    "main.6b682871.js.map": "/my-react-app/static/js/main.6b682871.js.map",
+    "787.ec6b3678.chunk.js.map": "/my-react-app/static/js/787.ec6b3678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a522549.css",
+    "static/js/main.6b682871.js"
+  ]
+}
